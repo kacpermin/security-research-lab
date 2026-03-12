@@ -1,91 +1,38 @@
-# Security Reaserch Lab
+# Legal Notice
 
-> Educational and research-focused repository for red team tradecraft, adversary emulation, and defensive understanding.
-
-## Disclaimer
-
-This repository is provided strictly for:
-
-- educational purposes,
-- authorized security research,
-- controlled lab environments,
-- internal defense validation,
-- detection engineering and purple team exercises.
-
-All content, examples, notes, and proof-of-concept material published here are intended to be used **only in systems and environments you own or are explicitly authorized to assess**.
+This repository is provided strictly for educational, research, and authorized security testing purposes only.
 
 ## Authorized Use Only
 
-By accessing or using any material from this repository, you agree that you will:
+All materials in this repository may be used only in environments that you own or for which you have obtained explicit prior written authorization.
 
-- use it only in legal and authorized scenarios,
-- never deploy it against third-party systems without written permission,
-- never use it for unauthorized access, persistence, disruption, data theft, or evasion in real-world environments,
-- comply with all applicable laws, regulations, and policies in your jurisdiction.
+Any use against third-party systems, networks, services, accounts, or devices without authorization is prohibited.
 
-## No Operational Misuse
+## No Unlawful Use
 
-This repository is **not** intended to support:
+The contents of this repository must not be used for:
 
-- illegal activity,
-- malware deployment,
+- unauthorized access,
+- persistence,
 - credential theft,
-- unauthorized command execution,
-- persistence on third-party systems,
-- stealth or evasion against real victims,
-- destructive actions of any kind.
+- evasion,
+- data exfiltration,
+- service disruption,
+- malware deployment,
+- or any illegal activity.
 
-Any resemblance to offensive tradecraft reflects security research and adversary simulation in controlled conditions only.
-
-## Defensive Purpose
-
-The goal of this repository is to help:
-
-- understand attacker behaviors,
-- study techniques in isolated environments,
-- improve monitoring and detection,
-- test defensive controls,
-- support blue team and purple team learning.
-
-## Safe Testing Principles
-
-Use only in:
-
-- local virtual machines,
-- isolated home labs,
-- sandboxed environments,
-- explicitly approved internal test ranges.
-
-Before testing anything, make sure you have:
-
-1. authorization,
-2. environment isolation,
-3. logging enabled,
-4. rollback capability,
-5. a clear defensive objective.
+The user is solely responsible for ensuring that their use complies with all applicable local, national, and international laws and regulations.
 
 ## No Warranty
 
-All materials are provided **"as is"**, without warranty of any kind, express or implied.  
-The author assumes **no liability** for misuse, damage, legal consequences, service disruption, data loss, or any other outcome resulting from the use or abuse of this repository.
+All content is provided **"as is"**, without any warranty, express or implied, including but not limited to fitness for a particular purpose, legality, or non-infringement.
 
-## Responsible Research
+## Limitation of Liability
 
-If you are here to learn, study responsibly.  
-If you are here to test defenses, do so transparently and with approval.  
-If your intended use is unauthorized, do not use anything from this repository.
+The author assumes no liability and shall not be responsible for any direct, indirect, incidental, consequential, legal, or financial damages arising from the use, misuse, or inability to use the materials contained in this repository.
 
-## Ethics
+## Responsibility of the User
 
-Security knowledge should be used to:
+By using this repository, you agree that you are solely responsible for your actions and for verifying that your use is lawful and properly authorized.
 
-- improve resilience,
-- validate defenses,
-- educate responsibly,
-- reduce risk.
-
-Not to harm others.
-
----
-
-**Use responsibly. Test legally. Research ethically.**
+If you do not have explicit authorization, do not use any material from this repository.
